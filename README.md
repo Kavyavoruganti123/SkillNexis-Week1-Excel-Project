@@ -20,6 +20,7 @@ The objective of this project is to analyze the Global Superstore dataset and cr
 -	Which Department/Category contributes maximum Revenue?
 -	what are the different sales status in 2013 year?
 -	find the toral revenue?
+	- <a href="https://github.com/Kavyavoruganti123/SkillNexis-Week1-Excel-Project/blob/main/Excel%20dashboard.png">
 
 ##Process
 
