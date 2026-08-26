@@ -7,3 +7,34 @@ The objective of this project is to analyze the Global Superstore dataset and cr
 ##Dataset used
 
 - <a href="https://github.com/Kavyavoruganti123/SkillNexis-Week1-Excel-Project/blob/main/global_superstore_2016.xlsx">Dataset</a>
+
+##Questions(KPIS)
+
+-	Which year had the highest Sales?
+-	Which Category generated the highest Sales?
+-	Which Customer Segment generated the highest Sales?
+-	Which Shipping Mode was used most frequently?
+-	Which Country generated the highest Sales?
+-	Which Category generated the highest Profit?
+-	What is the relationship between Sales and Profit?
+-	Which Department/Category contributes maximum Revenue?
+-	what are the different sales status in 2013 year?
+-	find the toral revenue?
+
+##Process
+
+- Verify the  dataset for missing values, duplicate records, inconsistencies, and anomalies, and cleaned the data accordingly.
+
+- Ensured that the data was consistent and properly formatted with respect to data types, dates, categories, regions, sales, profit, quantity, and other relevant fields.
+
+- Create pivot tables according to the questions asked.
+
+- Create suitable charts from the pivot tables to visualize the results and make the analysis easier to understand.
+
+- Combined the required pivot charts into a single interactive dashboard for better visualization and analysis.
+
+- Applied slicers and filters to make the dashboard dynamic.
+
+  Dashboard image
+  
+
