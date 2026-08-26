@@ -35,7 +35,9 @@ The objective of this project is to analyze the Global Superstore dataset and cr
 
 - Applied slicers and filters to make the dashboard dynamic.
 
-  Dashboard image
-  - <a href="https://github.com/Kavyavoruganti123/SkillNexis-Week1-Excel-Project/blob/main/Excel%20dashboard.png">dashboard</a>
+  ##Dashboard image
+  - <a href="https://github.com/Kavyavoruganti123/SkillNexis-Week1-Excel-Project/blob/main/Excel%20dashboard.png">
+  <img width="841" height="732" alt="Excel dashboard" src="https://github.com/user-attachments/assets/1a757093-673f-460a-8047-8f91f8d90363" />
+
   
 
