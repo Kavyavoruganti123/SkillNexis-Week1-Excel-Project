@@ -41,7 +41,12 @@ The objective of this project is to analyze the Global Superstore dataset and cr
   - <a href="https://github.com/Kavyavoruganti123/SkillNexis-Week1-Excel-Project/blob/main/Excel%20dashboard.png">
   <img width="841" height="732" alt="Excel dashboard" src="https://github.com/user-attachments/assets/1a757093-673f-460a-8047-8f91f8d90363" />
 
-  ##Project Insights 
+
+
+
+   ##Project Insights
+
+   
 Sales performance: Identified overall sales trends and the categories contributing the most revenue.
 Profitability: Compared sales and profit to understand which products and categories are more profitable.
 Category analysis: Found the best-performing and low-performing product categories.
@@ -53,6 +58,7 @@ Decision-making: The dashboard helps businesses identify profitable areas, weak-
 Data visualization: Presented key findings through Pivot Charts, KPIs, and an interactive dashboard.
 
 ##Final Conclusion
+
 
 The Week 1 Global Superstore project helped me understand how to analyze and visualize business data using Excel. I worked with the dataset to identify important insights related to sales, revenue, profit, quantity, categories, departments, and regions. I used Excel functions, pivot tables, charts, and dashboards to present the results clearly. This project improved my data analysis, Excel, visualization, and problem-solving skills and gave me practical experience in converting raw data into meaningful business insights.
 
